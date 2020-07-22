@@ -1,5 +1,10 @@
 //Objective is to find the longest path that is increasing in a matrix
 
+let matrix = 
+[[9,9,4],
+ [6,6,8],
+ [2,1,1]] 
+
 
 //O(mn) where m and n are the row and column lengths of the matrix
 
